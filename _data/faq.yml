@@ -1,0 +1,85 @@
+faq:
+- heading: Lorem Ipsum
+  question: What is Lorem Ipsum?
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 1
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 2
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 3
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 4
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 5
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 6
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 7
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 8
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 9
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 10
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 11
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 12
+- heading: "Lorem Ipsum"
+  question: "Who can open a account with Myllenyl?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 13
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 14
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 15
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 16
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 17
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 18
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 19
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 20
+- heading: "Lorem Ipsum"
+  question: "What is Lorem Ipsum?"
+  ans: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  weight: 21
