@@ -1,8 +1,8 @@
-baseurl: ''
+baseurl: 'https://mail2karthikarthi.io/sdbk'
 exclude: ['README.md']
 permalink: pretty
 title: 'Genisys'
-url: https://mail2karthikarthi.io/genisys-smart"
+url: https://mail2karthikarthi.io/sdbk"
 
 
 google_analytics_id: "G-52MCRSMDG1"
@@ -18,7 +18,7 @@ footer:
 seo:
   meta_og_title: "Genisys"
   meta_og_type: "website"
-  meta_og_url: "https://mail2karthikarthi.github.io/genisys-smart/"
+  meta_og_url: "https://mail2karthikarthi.github.io/sdbk/"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
   meta_og_description: "Genisys is a new age automation company working in marine and industrial automation"
   
