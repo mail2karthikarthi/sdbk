@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: '/sdbk/'
 exclude: ['README.md']
 permalink: pretty
 title: 'Genisys'
