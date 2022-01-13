@@ -1,8 +1,8 @@
-baseurl: 'https://mail2karthikarthi.io/sdbk'
+baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: 'Genisys'
-url: https://mail2karthikarthi.io/sdbk"
+url: https://mail2karthikarthi.github.io/sdbk/"
 
 
 google_analytics_id: "G-52MCRSMDG1"
