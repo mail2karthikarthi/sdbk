@@ -11,7 +11,7 @@ homepage:
 logo:
   mobile: "images/logo/logo-mobile.svg"
   desktop: "images/logo/logo.svg"
-  desktop_height: "72px"
+  desktop_height: "144px"
 footer:
   copyright_text: '© 2022 <a class="zerostatic" href="https://www.genisys-smart.com">www.genisys-smart.com</a>'
 
