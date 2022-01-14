@@ -11,7 +11,7 @@ homepage:
 logo:
   mobile: "images/logo/logo-mobile.svg"
   desktop: "images/logo/logo.svg"
-  desktop_height: "144px"
+  desktop_height: "72px"
 footer:
   copyright_text: '© 2022 <a class="zerostatic" href="https://www.genisys-smart.com">www.genisys-smart.com</a>'
 
@@ -20,7 +20,7 @@ seo:
   meta_og_type: "website"
   meta_og_url: "https://mail2karthikarthi.github.io/sdbk/"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Genisys is a new age automation company working in marine and industrial automation"
+  meta_og_description: "SDBK is a new age company specializing in coating and finishing"
   
 
 collections:
