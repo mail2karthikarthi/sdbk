@@ -1,4 +1,4 @@
-baseurl: '/sdbk/'
+baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: 'SDBK'
@@ -13,12 +13,12 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "72px"
 footer:
-  copyright_text: '© 2022 <a class="zerostatic" href="https://www.sdbkengg.com">www.sdbkengg.com</a>'
+  copyright_text: '© 2022 <a class="zerostatic" href="https://sdbkengg.com">https://sdbkengg.com</a>'
 
 seo:
   meta_og_title: "Genisys"
   meta_og_type: "website"
-  meta_og_url: "https://mail2karthikarthi.github.io/sdbk/"
+  meta_og_url: "https://sdbkengg.com"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
   meta_og_description: "SDBK is a new age company specializing in coating and finishing"
   
