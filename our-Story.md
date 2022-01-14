@@ -6,7 +6,7 @@ bodyClass: page-contact
 
 Our mission is to provide innovative and smart solutions for business.
 
-Genisys make innovative, target oriented products and service that empower our users to simply get more things done.
+SDBK make innovative, target oriented products and service that empower our users to simply get more things done.
 
 Culture
 
