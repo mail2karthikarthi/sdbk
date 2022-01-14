@@ -4,14 +4,14 @@ layout: policy
 bodyClass: page-contact
 ---
 
-Security at Genisys
-The security of your data is of utmost importance to us here at Genisys. 
+Security at SDBK
+The security of your data is of utmost importance to us here at SDBK. 
 
 Security maintenance includes:
 
 
 Encryption
-All customer interaction with Genisys servers is encrypted through the use of SSL. Our SSL certificates use 256-bit encryption to protect your data. Data is encrypted at rest with AES-256, block-level storage encryption.
+All customer interaction with SDBK servers is encrypted through the use of SSL. Our SSL certificates use 256-bit encryption to protect your data. Data is encrypted at rest with AES-256, block-level storage encryption.
 
 
 Disaster Recovery
@@ -19,43 +19,43 @@ Data is backed up offsite daily for recovery from disasters. Daily logical backu
 
 
 Data Retention and Location
-Genisys stores the minimum amount of data required in order to provide our services. Customer, proposal and pricing data must be stored by Genisys, but credit cards details are stored by PCI compliant service partners.
+SDBK stores the minimum amount of data required in order to provide our services. Customer, proposal and pricing data must be stored by SDBK, but credit cards details are stored by PCI compliant service partners.
 
-Genisys securely and indefinitely retains data unless deletion is requested by the principle of the account. Servers housing data are located within the United States of America.
+SDBK securely and indefinitely retains data unless deletion is requested by the principle of the account. Servers housing data are located within the United States of America.
 
 
 Financial Security
-Credit card details are never stored by Genisys. Credit cards are transmitted directly to our payment providers over SSL connections and are not logged or stored in Genisys systems.
+Credit card details are never stored by SDBK. Credit cards are transmitted directly to our payment providers over SSL connections and are not logged or stored in SDBK systems.
 
 Subscription payments are processed securely by a PCI-DSS Level 1 compliant service provider.
 
-Customer payments are processed by Razorpay, a PCI-DSS Level 1 compliant provider. Genisys connects to Razorpay using its secure js file.
+Customer payments are processed by Razorpay, a PCI-DSS Level 1 compliant provider. SDBK connects to Razorpay using its secure js file.
 
 
 Password Security
 Password security is maintained through minimum passwords lengths and automatic lockout on repeated login failures.
 
-To maximise your safety, Genisys recommend your password be at least 10 characters with a mixture of letters, numbers and punctuation characters. We recommend that the password you use for Genisys is unique and not used for any other web sites. A password manager such as 1Password or LastPass is recommended to manage your passwords.
+To maximise your safety, SDBK recommend your password be at least 10 characters with a mixture of letters, numbers and punctuation characters. We recommend that the password you use for SDBK is unique and not used for any other web sites. A password manager such as 1Password or LastPass is recommended to manage your passwords.
 
 No plain text passwords are stored at any time.
 
 
 Physical Security
-Genisys's production systems run on Google Cloud platform, a popular cloud computing platform. Google Cloud platform's security policy details the physical, network, system and data security they provide.
+SDBK's production systems run on Google Cloud platform, a popular cloud computing platform. Google Cloud platform's security policy details the physical, network, system and data security they provide.
 
 
 Network Security
-Genisys undertakes annual penetration testing.
+SDBK undertakes annual penetration testing.
 
-Genisys has implemented technologies to reduce the impact of DDoS attacks.
+SDBK has implemented technologies to reduce the impact of DDoS attacks.
 
 
 Vulnerability Management
-Software libraries used by Genisys are actively kept up to date. Any security fixes or patches are treated as top priority and are applied as quickly as possible - normally within 24 hours of public release.
+Software libraries used by SDBK are actively kept up to date. Any security fixes or patches are treated as top priority and are applied as quickly as possible - normally within 24 hours of public release.
 
 
 Accreditation
-Genisys is not ISO or SOC accredited. Please review our sub-processor list for details of sub-processor accreditations.
+SDBK is not ISO or SOC accredited. Please review our sub-processor list for details of sub-processor accreditations.
 
 
 Support and Development
