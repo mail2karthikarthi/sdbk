@@ -1,7 +1,7 @@
 baseurl: '/sdbk/'
 exclude: ['README.md']
 permalink: pretty
-title: 'Genisys'
+title: 'SDBK'
 url: https://mail2karthikarthi.github.io/sdbk/"
 
 
@@ -13,7 +13,7 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "72px"
 footer:
-  copyright_text: '© 2022 <a class="zerostatic" href="https://www.genisys-smart.com">www.genisys-smart.com</a>'
+  copyright_text: '© 2022 <a class="zerostatic" href="https://www.sdbkengg.com">www.sdbkengg.com</a>'
 
 seo:
   meta_og_title: "Genisys"
